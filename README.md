@@ -8,8 +8,8 @@
 - ( (Open Parenthesis Sign)
 - ) (Close Parenthesis Sign
 # Link
-- https://www.youtube.com/watch?v=dQw4w9WgXcQ
-- https://www.pixiv.net/en/users/163536
+- [Funny Video](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+- [Cool Artist](https://www.pixiv.net/en/users/163536)
 # Emoji
 - 😊
 - 😂
